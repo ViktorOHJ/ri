@@ -26,8 +26,6 @@ jobs:
 
     - name: Test
       run: go test -v ./...
-      
-name: Setup Go environment
 
 name: Golangci-lint
 
